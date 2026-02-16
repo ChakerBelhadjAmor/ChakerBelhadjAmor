@@ -64,15 +64,15 @@ mindset       : Learn. Build. Compete. Repeat.
 
 ## `$ ls projects/`
 
-**🎓 E-Learning Platform** *(Full-Stack)*  
+** E-Learning Platform** *(Full-Stack)*  
 Complete web application with authentication, course management, and modern UI  
 `Next.js` `Node.js/Express` `PostgreSQL` `Tailwind CSS`
 
-**💼 Portfolio Website** *(Frontend)*  
+** Portfolio Website** *(Frontend)*  
 Dynamic, responsive portfolio showcasing projects with modular components  
 `React` `HTML5` `CSS3`
 
-**🏢 Tunisie Telecom Internship** *(Summer 2025)*  
+** Tunisie Telecom Internship** *(Summer 2025)*  
 Designed and developed a comprehensive e-learning web application  
 
 ---
@@ -100,13 +100,13 @@ Designed and developed a comprehensive e-learning web application
 ## `$ whoami --beyond-code`
 
 ```
-🎯 Executive Board Member @ Competitive Programming Club (CPC)
+ Executive Board Member @ Competitive Programming Club (CPC)
    → Organizing events, mentoring peers in algorithmic problem-solving
 
-🚩 CTF Competitor
+ CTF Competitor
    → Regular participant in cybersecurity challenges
 
-🌍 Languages: French (B2) · English (B2)
+ Languages: French (B2) · English (B2)
 ```
 
 ---
