@@ -31,8 +31,8 @@
 ```yaml
 name       : Chaker Belhadj Amor
 role       : Full-Stack Developer
-status     : Always building something
-approach   : Clean code. Minimal design. Maximum impact.
+status     : Do not disturb 
+approach   : Build it, Break it, Own it.
 ```
 
 ---
