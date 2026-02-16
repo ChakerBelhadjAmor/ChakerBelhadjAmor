@@ -1,29 +1,4 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=header&text=&fontSize=0" width="100%"/>
-</div>
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     < Hello, World. I'm Mohamed Chaker Belhadj Amor />      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full-Stack+Developer;DevOps+Enthusiast;CTF+Competitor" alt="Typing SVG" />
-</div>
-
-<br/>
-
----
 
 ## `$ whoami`
 
