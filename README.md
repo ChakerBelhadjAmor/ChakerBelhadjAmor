@@ -57,7 +57,7 @@ mindset       : Learn. Build. Compete. Repeat.
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChakerBelhadjAmor&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChakerBelhadjAmor&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=0" />
 </div>
 
 ---
